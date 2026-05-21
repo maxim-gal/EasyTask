@@ -12,7 +12,7 @@ markdown
 
 ### 1. Клонируйте репозиторий
 ```bash
-git clone https://github.com/maximgal/EasyTask.git
+git clone https://github.com/maxim-gal/EasyTask.git
 cd EasyTask
 2. Установите зависимости бэкенда
 bash
